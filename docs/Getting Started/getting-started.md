@@ -1,10 +1,16 @@
 ---
-title: Welcome to Get To Know Caleb Miller
+title: Who is Caleb Miller?
+excerpt: Part of the ReadMe Application Process
 hidden: false
 ---
-<Callout icon="📘" theme="info">
-  **Template:**  Delete this callout and edit this page with your content and links.
-</Callout>
+# About Me
+
+- Enterprise SaaS Support Engineer with 9 years of professional experience
+- I have experience with SaaS product support and implementation... 6 years at the same company, to be exact.
+- My specialties include support desk management, API troubleshooting, product configuration, log analysis, and coordinating issues between different departments in a small team.
+- I also have experience troubleshooting OTHER tech, as a web developer who has worked at several different jobs - digital marketing, E-commerce, and enterprise development. It might seem like there isn't much overlap between support and development, but trust me - there is!
+- I built a software product called Subscription Everything: https\://subscriptioneverything.com&#x20;
+- I went to the University of New Hampshire and majored in Information Technology.
 
 <Cards>
   {/* Edit the props below to customize these components */}
