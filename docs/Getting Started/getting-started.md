@@ -52,12 +52,13 @@ hidden: false
 <Accordion title="Custom Data Flow in Postman" icon="fa-chart-line">
 I used Postman and JavaScript to create a custom alerting workflow for a customer. The customer needed their data in a format that was not possibile when using standard webhooks. See https://github.com/cmiller734/postman-slack-alerter
 </Accordion>
-<Accordion title="Data Extraction from Zendesk" icon="fa-node-js">
-I developed a Node.js application which extracts structured customer data from Zendesk and imports it into an Excel document. See https://github.com/cmiller734/zendesk-user-retrieval-app
-</Accordion>
-<Accordion title="Data Extraction from Zendesk" icon="fa-info-circle">
+
+<Accordion title="Data Extraction from Zendesk" icon="fa-brands fa-node-js">
 I developed a Node.js application which extracts structured customer data from Zendesk and imports it into an Excel document. See https://github.com/cmiller734/zendesk-user-retrieval-app
 </Accordion>
 
+<Accordion title="Data Extraction from Zendesk" icon="fa-info-circle">
+I developed a Node.js application which extracts structured customer data from Zendesk and imports it into an Excel document. See https://github.com/cmiller734/zendesk-user-retrieval-app
+</Accordion>
 
 <br />
