@@ -33,7 +33,7 @@ hidden: false
 <Cards>
   <Card kind="tile" title="I Am Creative" href="#" icon="fa-duotone fa-brush">I think outside the box, allowing me to find solutions in new and better ways.</Card>
 
-  <Card kind="tile" title="I Am Specialized" icon="fa-duotone fa-bullhorn">Think of my skillset as "Support Engineer+": Enterprise SaaS Support first, but also Help Desk (e.g. new user administration), Documentation, and Web Development.</Card>
+  <Card kind="tile" title="I Am Specialized" icon="fa-duotone fa-bullhorn">Think of my skillset as "Support Engineer+": Enterprise SaaS Support first, but also Help Desk, Documentation, and Web Development.</Card>
 
   <Card kind="tile" title="I Am Ambitious" icon="fa-duotone fa-dumbbell">My career at Apica blessed me with the experience I need to succeed in Enterprise SaaS Support roles - and my experience shows it</Card>
 </Cards>
