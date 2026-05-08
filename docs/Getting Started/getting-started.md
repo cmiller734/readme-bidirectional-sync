@@ -21,7 +21,7 @@ hidden: false
 <br /> 
 
 <Cards>
-  <Card kind="tile" title="I Am Proactive" href="#" icon="fa-duotone fa-rocket">I have been teaching myself new skills and toolsets continually since the start of my career</Card>
+  <Card kind="tile" title="I Am Proactive" icon="fa-duotone fa-rocket">I have been teaching myself new skills and toolsets continually since the start of my career</Card>
 
   <Card kind="tile" title="I Am Knowledgeable" icon="fa-duotone fa-terminal">I have deep knowledge of ticket handling, customer relationships, REST APIs, authentication, front-end coding, CI/CD, JavaScript ecosystems (e.g. Node.js), and generative AI tools.</Card>
 
@@ -31,7 +31,7 @@ hidden: false
 <br />
 
 <Cards>
-  <Card kind="tile" title="I Am Relational" href="#" icon="fa-duotone fa-handshake">I think outside the box, allowing me to find solutions in new and better ways.</Card>
+  <Card kind="tile" title="I Am Relational" icon="fa-duotone fa-handshake">I think outside the box, allowing me to find solutions in new and better ways.</Card>
 
   <Card kind="tile" title="I Am Specialized" icon="fa-duotone fa-bullhorn">Think of my skillset as "Support Engineer+": Enterprise SaaS Support first, but also Help Desk, Documentation, and Web Development.</Card>
 
