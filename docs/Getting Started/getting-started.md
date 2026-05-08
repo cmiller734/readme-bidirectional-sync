@@ -6,7 +6,7 @@ hidden: false
 <br />
 
 
-<Image src="https://files.readme.io/62edee66cc52879ff156fd5854a46d32b94e88a8a9461c0743ff3d6fdd2f9630-DSC_8439.jpg" align="center" width="500vh" />
+<Image src="https://files.readme.io/62edee66cc52879ff156fd5854a46d32b94e88a8a9461c0743ff3d6fdd2f9630-DSC_8439.jpg" align="center" width="400px" />
 
 
 # Get To Know Me!
@@ -61,4 +61,32 @@ I developed a Node.js application which extracts structured customer data from Z
 I co-created an OpenTelemetry configuration file which allowed users to route metrics data from a Windows OS into a SaaS portal.
 </Accordion>
 
-<br />
+# What I Like to Do
+
+## Music
+
+I am an avid musician. I play acoustic, electric, bass guitar, and drums, and I also sing and write songs. I even have a website! [https://calebmiller.webflow.io/](https://calebmiller.webflow.io/ "https://calebmiller.webflow.io/")
+
+## Photography
+
+I am a hobby photographer, shooting pretty much exclusively landscapes. I have dabbled in some portrait and animal photography as well. See [https://calebmiller734.myportfolio.com/](https://calebmiller734.myportfolio.com/ "https://calebmiller734.myportfolio.com/")
+
+## Anything Outdoors
+
+I love hiking, biking, outdoor sports, climbing, and pretty much anything that involves breathing in the fresh outdoor air and connecting with nature. I find nature so calming and steadying.
+
+## Weight Lifting
+
+Time to hit the gym! I like keeping my body in top condition, and weight lifting is a part of that.
+
+## Video Games
+
+I own a Nintendo Switch and love to unwind with it when it's time to turn my brain off. A little bit before the end of the day!
+
+## Time With Loved Ones
+
+One of my favorite things to do is spend time with the people and pets I love. This includes my wife; my immediate family, who lives nearby; my two cats, Tonks and Lupin; my bandmates; and my long-term friends.
+
+# Thanks for reading! Let's talk soon?
+
+Send me an E-mail at [caleb.miller734@outlook.com](mailto:caleb.miller734@outlook.com) or call me at 603-325-3197 if you would like to move forward with an interview. Thank you, and I hope to hear from you soon!
