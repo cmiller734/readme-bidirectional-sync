@@ -24,7 +24,7 @@ hidden: false
 
   <Card title="Knowledgeable" icon="fa-duotone fa-code-simple">I have deep knowledge of ticket handling, customer relationships, REST APIs, authentication, front-end coding, CI/CD, JavaScript ecosystems (e.g. Node.js), and generative AI tools.</Card>
 
-  <Card title="Build with AI" icon="fa-duotone fa-sparkles">My career at Apica blessed me with the experience I need to succeed in Enterprise SaaS Support roles - and my experience shows it</Card>
+  <Card title="Experienced" icon="fa-duotone fa-sparkles">My career at Apica blessed me with the experience I need to succeed in Enterprise SaaS Support roles - and my experience shows it</Card>
 </Cards>
 
 <br />
