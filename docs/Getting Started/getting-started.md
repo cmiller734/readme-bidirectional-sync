@@ -21,9 +21,9 @@ hidden: false
 <br /> 
 
 <Cards>
-  <Card kind="tile" title="I Am Proactive" href="#" icon="fa-duotone fa-magnifying-glass">I have been teaching myself new skills and toolsets continually since the start of my career</Card>
+  <Card kind="tile" title="I Am Proactive" href="#" icon="fa-duotone fa-rocket">I have been teaching myself new skills and toolsets continually since the start of my career</Card>
 
-  <Card kind="tile" title="I Am Knowledgeable" icon="fa-duotone fa-bullhorn">I have deep knowledge of ticket handling, customer relationships, REST APIs, authentication, front-end coding, CI/CD, JavaScript ecosystems (e.g. Node.js), and generative AI tools.</Card>
+  <Card kind="tile" title="I Am Knowledgeable" icon="fa-duotone fa-terminal">I have deep knowledge of ticket handling, customer relationships, REST APIs, authentication, front-end coding, CI/CD, JavaScript ecosystems (e.g. Node.js), and generative AI tools.</Card>
 
   <Card kind="tile" title="I Am Experienced" icon="fa-duotone fa-robot">My career at Apica blessed me with the experience I need to succeed in Enterprise SaaS Support roles - and my experience shows it</Card>
 </Cards>
