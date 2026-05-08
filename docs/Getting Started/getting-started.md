@@ -5,6 +5,10 @@ hidden: false
 ---
 <h1>About Me</h1>
 
+![](https://files.readme.io/62edee66cc52879ff156fd5854a46d32b94e88a8a9461c0743ff3d6fdd2f9630-DSC_8439.jpg)
+
+<br />
+
 - Enterprise SaaS Support Engineer with 9 years of professional experience
 - I have experience with SaaS product support and implementation... 6 years at the same company, to be exact.
 - My specialties include support desk management, API troubleshooting, product configuration, log analysis, and coordinating issues between different departments in a small team.
