@@ -57,8 +57,8 @@ I used Postman and JavaScript to create a custom alerting workflow for a custome
 I developed a Node.js application which extracts structured customer data from Zendesk and imports it into an Excel document. See https://github.com/cmiller734/zendesk-user-retrieval-app
 </Accordion>
 
-<Accordion title="Data Extraction from Zendes" icon="fa-info-circle">
-I developed a Node.js application which extracts structured customer data from Zendesk and imports it into an Excel document. See https://github.com/cmiller734/zendesk-user-retrieval-app
+<Accordion title="OpenTelemetry Configuration Project" icon="fa-info-circle">
+I co-created an OpenTelemetry configuration file which allowed users to route metrics data from a Windows OS into a SaaS portal.
 </Accordion>
 
 <br />
