@@ -3,7 +3,6 @@ title: Caleb Miller - ReadMe Application
 excerpt: Enterprise Support Engineer
 hidden: false
 ---
-# About Me
 <h1>About Me</h1>
 
 - Enterprise SaaS Support Engineer with 9 years of professional experience
