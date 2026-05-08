@@ -45,15 +45,19 @@ hidden: false
 1. I want to work at Readme because I'm very comfortable in remote-friendly small team environments; I've worked in small teams for my entire career.&#x20;
 2. My technical skillset aligns wonderfully with what your team is looking for: API troubleshooting, SSO workflows, Git, CI/CD, even JavaScript frameworks! This would allow me to be comfortable with the workflow from day one.
 3. I have always enjoyed front end development, and this role would give me the chance to utilize HTML, CSS, JavaScript, Git, and more. That's a big deal to me!
-4. You are offering excellent benefits!
+4. The company offers excellent benefits!
 
 # Some Projects You Should Know About
 
-<Accordion title="Custom Data Flow in Postman" icon="fa-info-circle">
+<Accordion title="Custom Data Flow in Postman" icon="fa-chart-line">
 I used Postman and JavaScript to create a custom alerting workflow for a customer. The customer needed their data in a format that was not possibile when using standard webhooks. See https://github.com/cmiller734/postman-slack-alerter
 </Accordion>
-<Accordion title="Custom Data Flow in Postman" icon="fa-info-circle">
-I used Postman and JavaScript to create a custom alerting workflow for a customer. The customer needed their data in a format that was not possibile when using standard webhooks. See https://github.com/cmiller734/postman-slack-alerter
+<Accordion title="Data Extraction from Zendesk" icon="fa-node-js">
+I developed a Node.js application which extracts structured customer data from Zendesk and imports it into an Excel document. See https://github.com/cmiller734/zendesk-user-retrieval-app
 </Accordion>
+<Accordion title="Data Extraction from Zendesk" icon="fa-info-circle">
+I developed a Node.js application which extracts structured customer data from Zendesk and imports it into an Excel document. See https://github.com/cmiller734/zendesk-user-retrieval-app
+</Accordion>
+
 
 <br />
