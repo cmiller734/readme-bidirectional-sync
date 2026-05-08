@@ -18,6 +18,8 @@ hidden: false
 
 # So, why do I stand out?
 
+<br /> 
+
 <Cards>
   <Card kind="tile" title="I Am Proactive" href="#" icon="fa-duotone fa-magnifying-glass">I have been teaching myself new skills and toolsets continually since the start of my career</Card>
 
