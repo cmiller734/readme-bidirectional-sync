@@ -16,9 +16,9 @@ hidden: false
 * **6 years** of demonstrated experience working with enterprise product support at a SaaS company
 * Specialties include support desk management, API troubleshooting, product configuration, log analysis, and coordinating issues between different departments in a small team
 
-# So, why do I stand out?
+# Why do I stand out?
 
-<br /> 
+<br />
 
 <Cards>
   <Card kind="tile" title="I Am Proactive" icon="fa-duotone fa-rocket">I have been teaching myself new skills and toolsets continually since the start of my career</Card>
@@ -37,3 +37,23 @@ hidden: false
 
   <Card kind="tile" title="I Am Ambitious" icon="fa-duotone fa-dumbbell">I have explored a number of careers in life, and Enterprise SaaS Support is not just a job - it's where I <i>choose</i> to specialize and succeed.</Card>
 </Cards>
+
+<br />
+
+# Why Do I Want to Work at Readme?
+
+1. I want to work at Readme because I'm very comfortable in remote-friendly small team environments; I've worked in small teams for my entire career.&#x20;
+2. My technical skillset aligns wonderfully with what your team is looking for: API troubleshooting, SSO workflows, Git, CI/CD, even JavaScript frameworks! This would allow me to be comfortable with the workflow from day one.
+3. I have always enjoyed front end development, and this role would give me the chance to utilize HTML, CSS, JavaScript, Git, and more. That's a big deal to me!
+4. You are offering excellent benefits!
+
+# Some Projects You Should Know About
+
+<Accordion title="Custom Data Flow in Postman" icon="fa-info-circle">
+I used Postman and JavaScript to create a custom alerting workflow for a customer. The customer needed their data in a format that was not possibile when using standard webhooks. See https://github.com/cmiller734/postman-slack-alerter
+</Accordion>
+<Accordion title="Custom Data Flow in Postman" icon="fa-info-circle">
+I used Postman and JavaScript to create a custom alerting workflow for a customer. The customer needed their data in a format that was not possibile when using standard webhooks. See https://github.com/cmiller734/postman-slack-alerter
+</Accordion>
+
+<br />
