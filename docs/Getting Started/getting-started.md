@@ -31,11 +31,11 @@ hidden: false
 <br />
 
 <Cards>
-  <Card kind="tile" title="I Am Creative" href="#" icon="fa-duotone fa-brush">I have been teaching myself new skills and toolsets continually since the start of my career</Card>
+  <Card kind="tile" title="I Am Creative" href="#" icon="fa-duotone fa-brush">I think outside the box, allowing me to find solutions in new and better ways.</Card>
 
-  <Card kind="tile" title="I Am Knowledgeable" icon="fa-duotone fa-bullhorn">I have deep knowledge of ticket handling, customer relationships, REST APIs, authentication, front-end coding, CI/CD, JavaScript ecosystems (e.g. Node.js), and generative AI tools.</Card>
+  <Card kind="tile" title="I Am Specialized" icon="fa-duotone fa-bullhorn">Think of my skillset as "Support Engineer+". I specialize in Enterprise SaaS Support, but have experience in other areas as well, including Help Desk Support (internal user administration, etc), Documentation, and Web Development. This preserves a core skillset and identity while giving me enough breadth to be productive in other areas.</Card>
 
-  <Card kind="tile" title="I Am Experienced" icon="fa-duotone fa-robot">My career at Apica blessed me with the experience I need to succeed in Enterprise SaaS Support roles - and my experience shows it</Card>
+  <Card kind="tile" title="I Am Ambitious" icon="fa-duotone fa-bicep">My career at Apica blessed me with the experience I need to succeed in Enterprise SaaS Support roles - and my experience shows it</Card>
 </Cards>
 
 ## The Basics
