@@ -3,9 +3,11 @@ title: Caleb Miller - ReadMe Application
 excerpt: Enterprise Support Engineer
 hidden: false
 ---
-<h1 style="text-align:center">About Me</h1>
+\#About Me
 
-![](https://files.readme.io/62edee66cc52879ff156fd5854a46d32b94e88a8a9461c0743ff3d6fdd2f9630-DSC_8439.jpg)
+
+<Image src="https://files.readme.io/62edee66cc52879ff156fd5854a46d32b94e88a8a9461c0743ff3d6fdd2f9630-DSC_8439.jpg" width="500px" />
+
 
 <br />
 
