@@ -44,7 +44,7 @@ hidden: false
 
 1. I want to work at Readme because I'm very comfortable in remote-friendly small team environments; I've worked in small teams for my entire career.&#x20;
 2. My technical skillset aligns wonderfully with what your team is looking for: API troubleshooting, SSO workflows, Git, CI/CD, even JavaScript frameworks! This would allow me to be comfortable with the workflow from day one.
-3. I have always enjoyed front end development, and this role would give me the chance to utilize HTML, CSS, JavaScript, Git, and more. That's a big deal to me!
+3. I have always enjoyed front end development, and this role would give me the chance to utilize HTML, CSS, JavaScript, Git, and more.
 4. The company offers excellent benefits!
 
 # Some Projects You May Find Interesting
