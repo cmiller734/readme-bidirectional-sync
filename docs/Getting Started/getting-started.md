@@ -31,7 +31,7 @@ hidden: false
 <br />
 
 <Cards>
-  <Card kind="tile" title="I Am Creative" href="#" icon="fa-duotone fa-brush">I think outside the box, allowing me to find solutions in new and better ways.</Card>
+  <Card kind="tile" title="I Am Relational" href="#" icon="fa-duotone fa-handshake">I think outside the box, allowing me to find solutions in new and better ways.</Card>
 
   <Card kind="tile" title="I Am Specialized" icon="fa-duotone fa-bullhorn">Think of my skillset as "Support Engineer+": Enterprise SaaS Support first, but also Help Desk, Documentation, and Web Development.</Card>
 
