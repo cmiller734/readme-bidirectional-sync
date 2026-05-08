@@ -35,7 +35,7 @@ hidden: false
 
   <Card kind="tile" title="I Am Specialized" icon="fa-duotone fa-bullhorn">Think of my skillset as "Support Engineer+". I specialize in Enterprise SaaS Support, but have experience in other areas as well, including Help Desk Support (internal user administration, etc), Documentation, and Web Development. This preserves a core skillset and identity while giving me enough breadth to be productive in other areas.</Card>
 
-  <Card kind="tile" title="I Am Ambitious" icon="fa-duotone fa-bicep">My career at Apica blessed me with the experience I need to succeed in Enterprise SaaS Support roles - and my experience shows it</Card>
+  <Card kind="tile" title="I Am Ambitious" icon="fa-duotone fa-dumbbell">My career at Apica blessed me with the experience I need to succeed in Enterprise SaaS Support roles - and my experience shows it</Card>
 </Cards>
 
 ## The Basics
