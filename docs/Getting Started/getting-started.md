@@ -16,15 +16,15 @@ hidden: false
 * **6 years** of demonstrated experience working with enterprise product support at a SaaS company
 * Specialties include support desk management, API troubleshooting, product configuration, log analysis, and coordinating issues between different departments in a small team
 
-<br />
+# Key Qualities
 
 <Cards>
   {/* Edit the props below to customize these components */}
-  <Card title="Quick Start" href="#" icon="fa-duotone fa-rocket-launch">Learn how to get started with our product</Card>
+  <Card title="Proactive" icon="fa-duotone fa-rocket-launch">I have been teaching myself new skills and toolsets continually since the start of my career</Card>
 
-  <Card title="API Reference" href="#" icon="fa-duotone fa-code-simple">Explore endpoints and build your integration</Card>
+  <Card title="Knowledgeable" icon="fa-duotone fa-code-simple">I have deep knowledge of ticket handling, customer relationships, REST APIs, authentication, front-end coding, CI/CD, JavaScript ecosystems (e.g. Node.js), and generative AI tools.</Card>
 
-  <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
+  <Card title="Build with AI" icon="fa-duotone fa-sparkles">My career at Apica blessed me with the experience I need to succeed in Enterprise SaaS Support roles - and my experience shows it</Card>
 </Cards>
 
 <br />
@@ -34,9 +34,9 @@ hidden: false
 <Cards>
   <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-magnifying-glass">Everything you need to upgrade</Card>
 
-  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-bullhorn">Real-time events are now available</Card>
+  <Card kind="tile" title="Webhooks" icon="fa-duotone fa-bullhorn">Real-time events are now available</Card>
 
-  <Card kind="tile" title="Android SDK" href="#" icon="fa-duotone fa-robot">Our native Android library is out of beta</Card>
+  <Card kind="tile" title="Android SDK" icon="fa-duotone fa-robot">Our native Android library is out of beta</Card>
 </Cards>
 
 <br />
