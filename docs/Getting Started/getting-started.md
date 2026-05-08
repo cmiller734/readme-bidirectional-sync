@@ -47,7 +47,7 @@ hidden: false
 3. I have always enjoyed front end development, and this role would give me the chance to utilize HTML, CSS, JavaScript, Git, and more. That's a big deal to me!
 4. The company offers excellent benefits!
 
-# Some Projects You Should Know About
+# Some Projects You May Find Interesting
 
 <Accordion title="Custom Data Flow in Postman" icon="fa-chart-line">
 I used Postman and JavaScript to create a custom alerting workflow for a customer. The customer needed their data in a format that was not possibile when using standard webhooks. See https://github.com/cmiller734/postman-slack-alerter
