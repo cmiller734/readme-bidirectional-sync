@@ -6,7 +6,7 @@ hidden: false
 <br />
 
 
-<Image src="https://files.readme.io/62edee66cc52879ff156fd5854a46d32b94e88a8a9461c0743ff3d6fdd2f9630-DSC_8439.jpg" align="center" width="400px" />
+<Image src="https://files.readme.io/62edee66cc52879ff156fd5854a46d32b94e88a8a9461c0743ff3d6fdd2f9630-DSC_8439.jpg" align="center" width="5vw" />
 
 
 # Get To Know Me!
